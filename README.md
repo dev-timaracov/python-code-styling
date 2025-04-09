@@ -5,6 +5,7 @@ My personal humble view on python code styling
 [Examples template](#examples-template)
 
 <a name="examples-template"/>
+
 # Examples template
 
 ```python
